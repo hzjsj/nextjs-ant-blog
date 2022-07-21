@@ -1,0 +1,15 @@
+{
+  "envId": "ww",
+  "functionRoot": "./functions",
+  "functions": [],
+  "framework": {
+    "name": "next-ssr",
+    "plugins": {
+      "client": {
+        "use": "@cloudbase/framework-plugin-next",
+        "inputs": {}
+      }
+    }
+  },
+  "region": "ap-shanghai"
+}

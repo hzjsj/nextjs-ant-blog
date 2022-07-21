@@ -1,0 +1,38 @@
+{
+  "name": "next-blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@bytemd/plugin-gfm": "^1.11.0",
+    "@bytemd/plugin-highlight-ssr": "^1.11.0",
+    "@bytemd/react": "^1.11.0",
+    "@cloudbase/node-sdk": "^2.9.0",
+    "@types/markdown-navbar": "^1.4.0",
+    "antd": "^4.18.9",
+    "axios": "^0.26.1",
+    "iron-session": "^6.1.1",
+    "markdown-navbar": "^1.4.3",
+    "next": "^12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-markdown": "^8.0.0",
+    "react-syntax-highlighter": "^15.4.5",
+    "remark-gfm": "^3.0.1",
+    "swr": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.21",
+    "@types/react": "17.0.39",
+    "@types/react-syntax-highlighter": "^13.5.2",
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0",
+    "typescript": "4.6.2"
+  }
+}

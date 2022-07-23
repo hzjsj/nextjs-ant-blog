@@ -14,13 +14,13 @@
 
 **用户端**
 
-首页： [http://123.60.78.78/](http://123.60.78.78/)
-![首页.png](.\images\kMLhy9h4ID4lm8E0afyL4eEklaRaeH6D_.png)
+首页： [http://123.78.78.78/](http://123.78.78.78/)
+![首页.png](images\kMLhy9h4ID4lm8E0afyL4eEklaRaeH6D_.png)
 
 详情页面
-![详情页面.png](.\images\EYVo_tAzlxmj1D0uZhKmfcEa51G645zh_.png)
+![详情页面.png](images\EYVo_tAzlxmj1D0uZhKmfcEa51G645zh_.png)
 
-登入页面：[http://123.60.78.78/login](http://123.60.78.78/login)
+登入页面：[http://123.78.78.78/login](http://123.78.78.78/login)
 
 支持微信小程序扫码注册登入
 
@@ -28,13 +28,13 @@
 
 密码：70106377
 
-![登入页面.png](.\images\K-GO0Rn6_US_KqyX9r8ZqgA9Rqbf10Lr_.png)
+![登入页面.png](images\K-GO0Rn6_US_KqyX9r8ZqgA9Rqbf10Lr_.png)
 
 
 文章发布页面
 
 现在只有发布文章功能，后期会开发其它功能。
-![文章发布页面.png](.\images\hgdVP936J8tC8W4w-4-SZt3cbUe05dqN_.png)
+![文章发布页面.png](images\hgdVP936J8tC8W4w-4-SZt3cbUe05dqN_.png)
 
 **运营端**
 
@@ -48,7 +48,7 @@
 
 密码：yy70106377
 
-![运营.png](.\images\Wc9ljM0jU5SgExrDIlEpjvSQspM2sUKO_.png)
+![运营.png](images\Wc9ljM0jU5SgExrDIlEpjvSQspM2sUKO_.png)
 
 
 #### 安装教程
